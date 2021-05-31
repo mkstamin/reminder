@@ -7,15 +7,15 @@ export default [
     },
     {
         id: 2,
-        name: 'Himes Khan',
-        age: 32,
-        image: 'https://res.cloudinary.com/dlkywcptu/image/upload/v1622433911/one_sceep9.jpg',
+        name: 'Mehedi Islam Ripon',
+        age: 20,
+        image: 'https://res.cloudinary.com/dlkywcptu/image/upload/v1622480625/ripon_pnf9az.jpg',
     },
     {
         id: 3,
-        name: 'Sohel Vath',
-        age: 36,
-        image: 'https://res.cloudinary.com/dlkywcptu/image/upload/v1622433911/one_ryw5vk.png',
+        name: 'Abu Musa',
+        age: 17,
+        image: 'https://res.cloudinary.com/dlkywcptu/image/upload/v1622480819/abu-musa_l40wjl.jpg',
     },
     {
         id: 4,
